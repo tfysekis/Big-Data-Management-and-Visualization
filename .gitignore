@@ -1,0 +1,27 @@
+# OS / editor metadata
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Raw database dumps and generated imports
+airportdb_source/
+*.tar.gz
+*.zst
+*.zst.idx
+
+# Teacher/course materials and generated exports
+Teachers Slides/
+exports/
+Αποθετήριο_Ερευνητικών_Δεδομένων/
+
+# Local logs and temporary files
+*.bak
+*.backup
+*.tmp
+*.log
+artifact-build-manifest.json
+terminal_output.txt
+powersell.txt
